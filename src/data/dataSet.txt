@@ -1,0 +1,57 @@
+Acerca de Dataset
+Contexto
+
+El crecimiento de los supermercados en las ciudades más pobladas está aumentando y
+las competencias en el mercado también son altas. El conjunto de datos es una de las
+ventas históricas de la empresa de supermercados que ha registrado en 3 sucursales
+diferentes durante 3 meses datos. Los métodos predictivos de análisis de datos son
+fáciles de aplicar con este conjunto de datos.
+
+Información del atributo
+
+Id. de factura: Número de identificación
+de factura de boleta de ventas generado por computadora
+
+Sucursal: Sucursal de supercentro (3 sucursales están disponibles identificadas por A, B y C).
+
+Ciudad: Ubicación de los supercentros
+
+Tipo de cliente: Tipo de clientes, registrados por los Miembros para los clientes
+que usan la tarjeta de miembro y Normal para sin tarjeta de miembro.
+
+Género: Género tipo de cliente
+    Female
+    Male
+
+Línea de producto: Grupos generales de categorización de artículos -
+    Accesorios electrónicos,
+    Accesorios de moda,
+    Alimentos y bebidas,
+    Salud y belleza,
+    Hogar y estilo de vida,
+    Deportes y viajes
+
+Precio unitario: Precio de cada producto en $
+
+Cantidad: Número de productos comprados por el cliente
+
+Impuesto: 5% de impuestos para la compra
+
+del cliente Total: Precio total, impuestos incluidos
+
+Fecha: Fecha de compra (Registro disponible de enero de 2019 a marzo de 2019)
+
+Hora: Hora de compra (10 a.m. a 9 p.m.)
+
+Pago: Pago utilizado por el cliente para la compra (hay 3 métodos disponibles:
+efectivo, tarjeta de crédito y billetera electrónica)
+
+COGS: Costo de los bienes vendidos
+
+Porcentaje de margen bruto: Porcentaje de margen
+
+bruto Ingresos brutos: Ingresos brutos
+
+Calificación: Calificación de estratificación del cliente en su experiencia
+de compra general (en una escala de 1 a 10)
+
